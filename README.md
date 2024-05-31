@@ -20,8 +20,8 @@
 
 Aqui estão alguns projetos que estou trabalhando ou que já trabalhei:
 
-- [Web-App](link-para-o-projeto)
-- [SICAEX](link-para-o-projeto)
+- [Web-App](https://github.com/cloud0zera/stream-estacio)
+- [SICAEX](https://github.com/cloud0zera/stream-estacio)
 
 ## Contato
 
@@ -33,6 +33,6 @@ Você pode me encontrar nas redes sociais:
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cloud0zera-github&show_icons=true)
 
 ## Obrigado por visitar meu perfil! 😄
