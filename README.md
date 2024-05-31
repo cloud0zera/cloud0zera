@@ -33,6 +33,6 @@ Você pode me encontrar nas redes sociais:
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cloud0zera-github&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cloud0zera&show_icons=true)
 
 ## Obrigado por visitar meu perfil! 😄
