@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-🎓 Sou Emerson Felipe, estudante de Engenharia de Software na Estácio, atualmente no terceiro semestre. Estou em busca de um estágio na área de Engenharia de Software para aplicar e expandir meus conhecimentos.
+🎓 Sou Emerson Felipe, estudante de Engenharia de Software na Estácio, atualmente no quarto semestre. Estou em busca de um estágio na área de Engenharia de Software para aplicar e expandir meus conhecimentos.
 
 💼 Tenho alguns projetos publicados no meu GitHub, incluindo um web-app e o SICAEX.
 
